@@ -1,5 +1,5 @@
 # 📬 Mailbox Size and Folder Statistics Script
-This PowerShell script retrieves detailed folder-level statistics for an Exchange Online or on-premises mailbox, including:
+This PowerShell script retrieves detailed folder-level statistics for an Exchange 2019 on-premises mailbox, including:
 
 - Folder sizes (in both MB and GB)
 
